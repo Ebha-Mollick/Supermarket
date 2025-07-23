@@ -1,4 +1,3 @@
-# Super Market Billing System (C++ | OOP Based | No File Handling)
 This is a console-based Super Market Billing System developed using Object-Oriented Programming (OOP) concepts in C++. It is a simple menu-driven application that allows the user to manage inventory and generate bills, all in runtime memory only (no file handling used).
 
 ✅ Features
